@@ -52,7 +52,7 @@ th{
 
 
 tr:nth-child(3) td{
-    color: brown;
+    color: brown
 }
 
 .type{
@@ -67,7 +67,6 @@ tr:nth-child(3) td{
 td{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
 
 
 
