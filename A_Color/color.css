@@ -1,0 +1,12 @@
+.color{
+    color: aqua;
+}
+.Hex{
+    color: #ff0000;
+}
+.rgb{
+    color: rgb(31,55,88);
+}
+*{
+    background-color:gray;
+}
